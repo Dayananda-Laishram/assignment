@@ -7,5 +7,5 @@ int main()
 	prntf("enter no2 \n");
 	scanf("%d",&no2);
 	product =no1*no2;
-	printf("the result",product);
+	printf("the product is : ",product);
 }	
