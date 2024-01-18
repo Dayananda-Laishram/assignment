@@ -2,10 +2,10 @@
 int main()
 {
 int num1,num2,addition;
-printf("enter the first numbr : ");
+printf("Enter the first numbr : \n");
 scanf("%d",&num1);
-printf("enter the second number :");
+printf("Enter the second number :\n");
 scanf("%d",&num2);
 addition =num1 + num2;
-printf("the sum is : %d",addition);
+printf("The sum of two number is : %d",addition);
 }
